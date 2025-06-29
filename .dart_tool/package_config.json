@@ -212,13 +212,13 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "flutter_tex_flutter",
+      "name": "flutter_tex",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-06-29T07:30:40.253125Z",
+  "generated": "2025-06-29T07:32:00.701499Z",
   "generator": "pub",
   "generatorVersion": "3.5.0",
   "flutterRoot": "file:///Users/yanuartrilaksono/Development/flutter",

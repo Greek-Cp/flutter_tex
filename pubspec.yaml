@@ -4,7 +4,7 @@ description: A Flutter Package to render Mathematics / Maths, Physics and Chemis
 
 version: 4.0.13
 
-homepage: https://github.com/Shahxad-Akram/flutter_tex
+homepage: https://github.com/Greek-Cp/flutter_tex
 
 environment:
   sdk: ">=3.2.3 <4.0.0"
